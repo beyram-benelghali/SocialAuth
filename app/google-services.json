@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "610423564705",
+    "firebase_url": "https://socialauth-66ece.firebaseio.com",
+    "project_id": "socialauth-66ece",
+    "storage_bucket": "socialauth-66ece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610423564705:android:7a97fba297678f09",
+        "android_client_info": {
+          "package_name": "com.beyram.socialauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610423564705-vsrtpljilqkkrbfmntmqg14l01s49gkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beyram.socialauth",
+            "certificate_hash": "8f9ac9dccf721e9e0f7018cb26466d2a4d4b4000"
+          }
+        },
+        {
+          "client_id": "610423564705-rlndj66cio4g2q1tlmnsps2vvpmd68c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1NIOkjlPl70601PPwXwU7_8MroEVLKcA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610423564705-rlndj66cio4g2q1tlmnsps2vvpmd68c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
